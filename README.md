@@ -22,3 +22,7 @@ This project is an **AI-powered interactive healthcare dashboard** that enables 
 
 ## 📂 Project Structure
 📁 interactive-healthcare-dashboard │-- 📁 src │ │-- 📁 components │ │ │-- ImageUploader.tsx │ │ │-- MetricsCard.tsx │ │ │-- DetectionResult.tsx │ │ │-- RealTimeChart.tsx │ │ │-- UtilizationChart.tsx │ │ │-- AnalysisChart.tsx │ │ │-- AnalysisDetails.tsx │ │ │-- PatientForm.tsx │ │ │-- PatientList.tsx │ │ │-- AlertSystem.tsx │ │ │-- PrescriptionGenerator.tsx │ │-- App.tsx │ │-- index.tsx │-- 📁 public │-- README.md │-- package.json │-- tsconfig.json
+
+this project runs on node js package 
+![Screenshot 2025-01-29 194424](https://github.com/user-attachments/assets/db86728d-5980-4613-81ef-3d288e21845a)
+
